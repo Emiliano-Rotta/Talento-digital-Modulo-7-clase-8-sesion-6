@@ -57,8 +57,7 @@
 // │   ├── config.js                       
 // │   ├── pool.js                       
 // ├── queries/
-// │   ├── inventarioQueries.js            
-                  
+// │   ├── inventarioQueries.js                              
 // ├── .env                                
 // ├── index.js                          
 // ├── package.json                       
@@ -114,7 +113,8 @@
 // │   ├── pool.js                         
 // ├── queries/
 // │   ├── transferenciaQueries.js        
-                 
+// ├── logs/
+// │   ├── errores.log                     
 // ├── .env                              
 // ├── index.js               
 // ├── package.json      
